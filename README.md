@@ -60,14 +60,17 @@ THREE OUTPUT FACTORS
 
 ## Summary of CCR Model
 Following is the table of efficiency score of all the DMUs (Warehouses). It can be clearly seen that there are 15 efficient DMUs and 14 inefficient DMUs.
+
 ![image](https://github.com/user-attachments/assets/b6168309-2c86-469a-9cd9-c7bbca18f9c2)
 
 ## Summary of BCC Model
-Here we have 19 efficient DMUs and 10 Inefficient DMUs
+Here we have 19 efficient DMUs and 10 Inefficient DMUs.
+
 ![image](https://github.com/user-attachments/assets/20b4b159-788d-4a3f-b975-58073ae56928)
 
 ## Summary of Super Efficiency
-After applying Anderson-Peterson Model, following is the list of super-efficient score of all the efficient warehouse
+After applying Anderson-Peterson Model, following is the list of super-efficient score of all the efficient warehouse.
+
 ![image](https://github.com/user-attachments/assets/7ce52e45-e269-4408-9eff-24ddb254763d)
 
 ## Conclusion
